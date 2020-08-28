@@ -1,0 +1,17 @@
+.Pokedex-cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pokedex-exp{
+    font-size: 18px;
+}
+
+.Pokedex-winner{
+    color: #4caf50;
+}
+
+.Pokedex-loser{
+    color: red;
+}
